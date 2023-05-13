@@ -6,5 +6,4 @@ for char in str1:
     char_dict[char] = count
 
 print('Result:',char_dict)
-
 print(char_dict)
